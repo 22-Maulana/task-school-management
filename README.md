@@ -19,3 +19,5 @@ python3 main.py
 
 
 ## Output Program
+
+![Screenshot](./Screenshot%202024-10-17%20131848.png)
